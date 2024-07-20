@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is a chapter 3 that created new,recreated.
 alienware
+=======
+This is a chapter 3 that created new,recreated branch
+>>>>>>> alienware

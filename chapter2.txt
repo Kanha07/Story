@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is a chapter 2 made ,Since created.recreated
 alienware
+=======
+This is a chapter 2 made ,Since created.recreated branch
+>>>>>>> alienware
